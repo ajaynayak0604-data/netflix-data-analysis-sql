@@ -1,19 +1,19 @@
-# 📊 Netflix Data Analysis using SQL
+# Netflix Data Analysis using SQL
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes a Netflix dataset using SQL to uncover key insights related to content distribution, trends, and viewer ratings.
 
 The goal is to demonstrate strong SQL skills by extracting meaningful business insights from real-world data.
 
 ---
 
-## 📂 Dataset
+## Dataset
 - **Source:** Netflix dataset  
 - **Contains:** Titles, genres, release years, countries, ratings, directors, and date added  
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - SQL (MySQL)  
 - Window Functions  
 - Aggregate Functions  
@@ -21,37 +21,37 @@ The goal is to demonstrate strong SQL skills by extracting meaningful business i
 
 ---
 
-## 🔍 Key Analysis
+## Key Analysis
 
-### 🎬 Director Analysis
+### Director Analysis
 Identified directors with above-average number of titles.
 
 ![Director Analysis](director-analysis.png)
 
 ---
 
-### 📺 Content Type Distribution
+### Content Type Distribution
 Analyzed the proportion of Movies vs TV Shows.
 
 ![Content Type](content-type-distribution.png)
 
 ---
 
-### 🌍 Country-wise Ranking
+### Country-wise Ranking
 Ranked countries based on the number of titles produced.
 
 ![Country Ranking](country-wise-ranking.png)
 
 ---
 
-### ⭐ Rating & Release Analysis
+### Rating & Release Analysis
 Analyzed how content ratings vary across release years.
 
 ![Rating Analysis](rating-release-analysis.png)
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Movies dominate the platform with **53 titles**, compared to **43 TV Shows**, indicating a higher focus on movie content.
 
@@ -68,6 +68,6 @@ Analyzed how content ratings vary across release years.
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This project demonstrates the ability to transform raw data into actionable insights using SQL. It highlights skills in data cleaning, querying, and analytical thinking, which are essential for data analyst roles.
 
