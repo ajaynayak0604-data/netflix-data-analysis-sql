@@ -62,8 +62,6 @@ Analyzed how content ratings vary across release years.
   - Masahiko Murata – 3 titles  
   - Hajime Kamegaki – 2 titles  
 
-- The majority of content was added in **2021 (96 titles)**, suggesting a significant growth spike during that year.
-
 - Ratings such as **TV-MA, TV-14, and PG-13** are the most common, indicating a focus on mature and teen audiences.
 
 ---
