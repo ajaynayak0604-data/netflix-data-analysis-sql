@@ -24,7 +24,7 @@ The goal is to demonstrate strong SQL skills by extracting meaningful business i
 ## 🔍 Key Analysis
 
 ### 🎬 Director Analysis
-Identified directors with the highest number of titles on Netflix.
+Identified directors with above-average number of titles.
 
 ![Director Analysis](director-analysis.png)
 
