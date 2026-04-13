@@ -42,12 +42,6 @@ Ranked countries based on the number of titles produced.
 
 ![Country Ranking](country-wise-ranking.png)
 
----
-
-### Rating & Release Analysis
-Analyzed how content ratings vary across release years.
-
-![Rating Analysis](rating-release-analysis.png)
 
 ---
 
@@ -61,8 +55,6 @@ Analyzed how content ratings vary across release years.
   - Toshiya Shinohara – 4 titles  
   - Masahiko Murata – 3 titles  
   - Hajime Kamegaki – 2 titles  
-
-- Ratings such as **TV-MA, TV-14, and PG-13** are the most common, indicating a focus on mature and teen audiences.
 
 ---
 
